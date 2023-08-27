@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini-signup-form-react-form-hook/static/css/main.d37ca597.css",
+    "main.js": "/mini-signup-form-react-form-hook/static/js/main.92cd5555.js",
+    "index.html": "/mini-signup-form-react-form-hook/index.html",
+    "main.d37ca597.css.map": "/mini-signup-form-react-form-hook/static/css/main.d37ca597.css.map",
+    "main.92cd5555.js.map": "/mini-signup-form-react-form-hook/static/js/main.92cd5555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d37ca597.css",
+    "static/js/main.92cd5555.js"
+  ]
+}
